@@ -5,7 +5,7 @@ export const profile = {
   },
   title: {
     ko: "인사(HR) 담당 | 채용",
-    en: ""HR Generalist | Talent Acquisition",
+    en: "HR Generalist | Talent Acquisition",
   },
   birth: "1990",
   links: {
