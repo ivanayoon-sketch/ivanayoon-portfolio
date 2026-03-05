@@ -2,8 +2,8 @@ export const siteConfig = {
   url: process.env.NEXT_PUBLIC_BASE_URL || "https://your-portfolio.vercel.app",
   author: {
     name: { ko: "윤이바나", en: "IVANA YOON" },
-    title: { ko: "시니어 소프트웨어 엔지니어", en: "Senior Software Engineer" },
-    email: "hello@example.com",
+    title: { ko: "인사(HR) 담당 | 채용", en: "HR Generalist | Talent Acquisition" },
+    email: "ivanayoon@gmail.com",
   },
   social: {
     github: "https://github.com/username",
