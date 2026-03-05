@@ -4,7 +4,7 @@ export const profile = {
     en: "IVANA YOON",
   },
   title: {
-    ko: "시니어 소프트웨어 엔지니어",
+    ko: "인사(HR) 담당 | 채용",
     en: "Senior Software Engineer",
   },
   birth: "1992",
