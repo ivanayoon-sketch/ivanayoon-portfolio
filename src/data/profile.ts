@@ -5,11 +5,11 @@ export const profile = {
   },
   title: {
     ko: "인사(HR) 담당 | 채용",
-    en: "Senior Software Engineer",
+    en: ""HR Generalist | Talent Acquisition",
   },
-  birth: "1992",
+  birth: "1990",
   links: {
-    email: "hello@example.com",
+    email: "ivanayoon@gmail.com",
     blog: "https://blog.example.com/",
     github: "https://github.com/johndoe",
     linkedin: "https://www.linkedin.com/in/johndoe",
