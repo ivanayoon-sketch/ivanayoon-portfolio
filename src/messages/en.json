@@ -11,9 +11,9 @@
   "hero": {
     "greeting": "Hello",
     "name": "IVANA YOON",
-    "title": "Security Compliance Engineer",
-    "subtitle": "Building pragmatic information security frameworks in Cloud Native environments",
-    "cta_resume": "View Portfolio",
+    "title": "HR Operations | Talent Acquisition",
+    "description": "Supporting organizational growth through healthcare HR operations and talent acquisition.",
+    "ctaPortfolio": "Portfolio",
     "cta_contact": "Get in Touch"
   },
   "about": {
