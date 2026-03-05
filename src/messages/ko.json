@@ -10,11 +10,11 @@
   },
   "hero": {
     "greeting": "안녕하세요",
-    "name": "윤이바나",
-    "title": "Security Compliance Engineer",
-    "subtitle": "Cloud Native 환경에서 합리적인 정보보호 체계를 구축합니다",
-    "cta_resume": "포트폴리오",
-    "cta_contact": "연락하기"
+    "name": "윤 이바나",
+    "title": "인사(HR) 운영 | 채용(Talent Acquisition)",
+    "description": "헬스케어 산업에서 HR 운영과 인재 확보 경험을 바탕으로 조직의 성장을 지원합니다.",
+    "ctaPortfolio": "포트폴리오",
+    "ctaContact": "연락하기"
   },
   "about": {
     "heading": "About",
