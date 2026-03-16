@@ -4,7 +4,7 @@ export const profile = {
     en: "IVANA YOON",
   },
   title: {
-    ko: "인사(HR) 담당 | 채용",
+    ko: "HR Operations & Talent Acquisition",
     en: "HR Operations & Talent Acquisition",
   },
   birth: "1990",
