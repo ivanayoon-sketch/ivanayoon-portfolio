@@ -16,13 +16,13 @@ export const profile = {
   },
   education: [
     {
-      school: "한국공과대학교",
+      school: "가천대학교",
       schoolEn: "Korea Institute of Technology",
-      major: "컴퓨터공학과",
+      major: "의공학과",
       majorEn: "Computer Science & Engineering",
-      degree: "석사",
+      degree: "학사",
       degreeEn: "Master's",
-      date: "2016.02.",
+      date: "2015.02.",
     },
     {
       school: "서울과학기술대학교",
