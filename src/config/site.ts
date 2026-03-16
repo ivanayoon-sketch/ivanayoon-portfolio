@@ -2,13 +2,13 @@ export const siteConfig = {
   url: process.env.NEXT_PUBLIC_BASE_URL || "https://your-portfolio.vercel.app",
   author: {
     name: { ko: "윤이바나", en: "IVANA YOON" },
-    title: { ko: "인사(HR) 담당 | 채용", en: "HR Generalist | Talent Acquisition" },
+    title: { ko: "인사(HR) 담당 | 채용", en: "HR Operations & Talent Acquisition" },
     email: "ivanayoon@gmail.com",
   },
   social: {
     github: "https://github.com/username",
-    linkedin: "https://linkedin.com/in/username",
-    blog: "https://blog.example.com",
+    linkedin: "https://www.linkedin.com/in/ivy-yoon-391419131/",
+    instagram: "https://instagram.com/ivanayoon90",
   },
   nav: [
     "about",
