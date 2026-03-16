@@ -30,7 +30,7 @@ export const siteConfig = {
     contact: true,
   },
   seo: {
-    titleTemplate: "%s | John Doe",
+    titleTemplate: "%s | Ivana Yoon",
     defaultTitle: "John Doe | Senior Software Engineer",
     description:
       "Personal portfolio showcasing my professional experience, projects, and achievements.",
