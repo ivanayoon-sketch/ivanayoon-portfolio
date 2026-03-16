@@ -8,7 +8,6 @@ export const siteConfig = {
   social: {
     github: "https://github.com/username",
     linkedin: "https://www.linkedin.com/in/ivy-yoon-391419131/",
-    instagram: "https://instagram.com/ivanayoon90",
   },
   nav: [
     "about",
