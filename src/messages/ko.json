@@ -12,9 +12,9 @@
     "greeting": "안녕하세요",
     "name": "윤 이바나",
     "title": "HR Operations & Talent Acquisition",
-    "description": "인사·총무·법무 업무를 바탕으로 기업과 핵심 인재를 잇는 올라운더 Specialist로서 활동하고 있습니다",
-    "cta_resume": "포트폴리오",
-    "cta_contact": "연락하기"
+    "hero.subtitle": "인사·총무·법무 업무를 바탕으로 기업과 핵심 인재를 잇는 올라운더 Specialist로서 활동하고 있습니다",
+    "hero.cta_contact": "포트폴리오",
+    "hero.cta_contact": "연락하기"
   },
   "about": {
     "heading": "About",
